@@ -1,0 +1,36 @@
+---
+name: CD
+on:
+  schedule:
+    - cron: 0 12 * * *
+  workflow_dispatch: null
+jobs:
+  scrape-prices:
+    name: Scrape Graphic Novel Prices
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+      - name: Update CSV
+        run: |
+          git clone https://github.com/grayespinoza/retail-price-scraper.git
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          set +e
+          mv isbns.csv retail-price-scraper/
+          cd retail-price-scraper/
+          pip install playwright
+          playwright install --with-deps
+          python -m scripts.scrape_prices
+          mv prices.csv ../
+          cd ../
+          git add prices.csv
+          git commit -m "chore: update prices"
+          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git main
