@@ -30,7 +30,6 @@ date,isbn,retailer,title,price,url
 260602,9781302515492,Cheap Graphic Novels,,,
 260602,9781302517946,Cheap Graphic Novels,,,
 260602,9781302517960,Cheap Graphic Novels,,,
-260602,9781302901907,Cheap Graphic Novels,,,
 260602,9781302911386,Cheap Graphic Novels,,,
 260602,9781302912123,Cheap Graphic Novels,X-MEN DARK PHOENIX SAGA OMNIBUS HC,59.99,https://cheapgraphicnovels.com/x-men-dark-phoenix-saga-omnibus-hc
 260602,9781302912550,Cheap Graphic Novels,HULK THE IMMORTAL HULK VOL 01 OR IS HE BOTH TP,11.19,https://cheapgraphicnovels.com/hulk-the-immortal-hulk-vol-01-or-is-he-both-tp
@@ -312,7 +311,6 @@ date,isbn,retailer,title,price,url
 260602,9781302515492,Barnes & Noble,,,
 260602,9781302517946,Barnes & Noble,,,
 260602,9781302517960,Barnes & Noble,,,
-260602,9781302901907,Barnes & Noble,,,
 260602,9781302911386,Barnes & Noble,,,
 260602,9781302912123,Barnes & Noble,X-Men: Dark Phoenix Saga Omnibus,100.0,https://www.barnesandnoble.com/w/x-men-chris-claremont/1127587727
 260602,9781302912550,Barnes & Noble,Immortal Hulk Vol. 1: Or Is He Both?,15.99,https://www.barnesandnoble.com/w/immortal-hulk-vol-1-al-ewing/1128756018
@@ -594,7 +592,6 @@ date,isbn,retailer,title,price,url
 260602,9781302515492,Organic Priced Books,,,
 260602,9781302517946,Organic Priced Books,,,
 260602,9781302517960,Organic Priced Books,,,
-260602,9781302901907,Organic Priced Books,,,
 260602,9781302911386,Organic Priced Books,,,
 260602,9781302912123,Organic Priced Books,,,
 260602,9781302912550,Organic Priced Books,,,
@@ -876,7 +873,6 @@ date,isbn,retailer,title,price,url
 260602,9781302515492,Amazon,Captain America: Winter Soldier Ultimate Collection (Captain America (2004-2011)),16.99,https://www.amazon.com/Captain-America-Ultimate-Collection-2004-2011-ebook/dp/B07SZHBPW3/ref=sr_1_1
 260602,9781302517946,Amazon,Secret Warriors: The Complete Collection Vol. 1: The Complete Collection Volume 1 (Secret Warriors (2008-2011)),24.99,https://www.amazon.com/Secret-Warriors-Complete-Collection-2008-2011-ebook/dp/B07ZPG4R5D/ref=sr_1_1
 260602,9781302517960,Amazon,"Daredevil by Mark Waid, Vol. 1",82.98,https://www.amazon.com/Daredevil-Mark-Waid-Vol-1/dp/0785168060/ref=sr_1_1
-260602,9781302901907,Amazon,,,
 260602,9781302911386,Amazon,Doctor Strange Epic Collection: Master Of The Mystic Arts (Strange Tales (1951-1968) Book 1),19.99,https://www.amazon.com/Doctor-Strange-Epic-Collection-1951-1968-ebook/dp/B07G8NTC72/ref=sr_1_1
 260602,9781302912123,Amazon,X-Men: The Dark Phoenix Saga,,
 260602,9781302912550,Amazon,Immortal Hulk Vol. 1: Or Is He Both?,0.0,https://www.amazon.com/Immortal-Hulk-Vol-He-Both/dp/1302912550/ref=sr_1_1
@@ -1158,7 +1154,6 @@ date,isbn,retailer,title,price,url
 260603,9781302515492,Cheap Graphic Novels,,,
 260603,9781302517946,Cheap Graphic Novels,,,
 260603,9781302517960,Cheap Graphic Novels,,,
-260603,9781302901907,Cheap Graphic Novels,,,
 260603,9781302911386,Cheap Graphic Novels,,,
 260603,9781302912123,Cheap Graphic Novels,X-MEN DARK PHOENIX SAGA OMNIBUS HC,59.99,https://cheapgraphicnovels.com/x-men-dark-phoenix-saga-omnibus-hc
 260603,9781302912550,Cheap Graphic Novels,HULK THE IMMORTAL HULK VOL 01 OR IS HE BOTH TP,11.19,https://cheapgraphicnovels.com/hulk-the-immortal-hulk-vol-01-or-is-he-both-tp
@@ -1440,7 +1435,6 @@ date,isbn,retailer,title,price,url
 260603,9781302515492,Barnes & Noble,,,
 260603,9781302517946,Barnes & Noble,,,
 260603,9781302517960,Barnes & Noble,,,
-260603,9781302901907,Barnes & Noble,,,
 260603,9781302911386,Barnes & Noble,,,
 260603,9781302912123,Barnes & Noble,X-Men: Dark Phoenix Saga Omnibus,100.0,https://www.barnesandnoble.com/w/x-men-chris-claremont/1127587727
 260603,9781302912550,Barnes & Noble,Immortal Hulk Vol. 1: Or Is He Both?,15.99,https://www.barnesandnoble.com/w/immortal-hulk-vol-1-al-ewing/1128756018
@@ -1722,7 +1716,6 @@ date,isbn,retailer,title,price,url
 260603,9781302515492,Organic Priced Books,,,
 260603,9781302517946,Organic Priced Books,,,
 260603,9781302517960,Organic Priced Books,,,
-260603,9781302901907,Organic Priced Books,,,
 260603,9781302911386,Organic Priced Books,,,
 260603,9781302912123,Organic Priced Books,,,
 260603,9781302912550,Organic Priced Books,,,
@@ -2004,7 +1997,6 @@ date,isbn,retailer,title,price,url
 260603,9781302515492,Amazon,Captain America: Winter Soldier Ultimate Collection (Captain America (2004-2011)),16.99,https://www.amazon.com/Captain-America-Ultimate-Collection-2004-2011-ebook/dp/B07SZHBPW3/ref=sr_1_1
 260603,9781302517946,Amazon,Secret Warriors: The Complete Collection Vol. 1: The Complete Collection Volume 1 (Secret Warriors (2008-2011)),24.99,https://www.amazon.com/Secret-Warriors-Complete-Collection-2008-2011-ebook/dp/B07ZPG4R5D/ref=sr_1_1
 260603,9781302517960,Amazon,"Daredevil by Mark Waid, Vol. 1",82.98,https://www.amazon.com/Daredevil-Mark-Waid-Vol-1/dp/0785168060/ref=sr_1_1
-260603,9781302901907,Amazon,,,
 260603,9781302911386,Amazon,Doctor Strange Epic Collection: Master Of The Mystic Arts (Strange Tales (1951-1968) Book 1),19.99,https://www.amazon.com/Doctor-Strange-Epic-Collection-1951-1968-ebook/dp/B07G8NTC72/ref=sr_1_1
 260603,9781302912123,Amazon,X-Men: The Dark Phoenix Saga,,
 260603,9781302912550,Amazon,Immortal Hulk Vol. 1: Or Is He Both?,0.0,https://www.amazon.com/Immortal-Hulk-Vol-He-Both/dp/1302912550/ref=sr_1_1
