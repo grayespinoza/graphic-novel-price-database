@@ -27,7 +27,7 @@ jobs:
           mv isbns.csv retail-price-scraper/
           cd retail-price-scraper/
           pip install playwright
-          playwright install --with-deps
+          playwright install --with-deps --only-shell
           python -m scripts.scrape_prices
           mv prices.csv ../
           cd ../
