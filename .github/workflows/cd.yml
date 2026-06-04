@@ -25,13 +25,12 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           set +e
           mv isbns.csv retail-price-scraper/
-          mv prices.csv retail-price-scraper/
           cd retail-price-scraper/
           pip install playwright
           playwright install --with-deps --only-shell
           python -m scripts.scrape_prices
-          mv prices.csv ../
+          mv "prices_$(TZ=America/Los_Angeles date +%y%m%d).csv" ../prices/
           cd ../
-          git add prices.csv
+          git add prices/"prices_$(TZ=America/Los_Angeles date +%y%m%d).csv"
           git commit -m "chore: update prices"
           git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git main
