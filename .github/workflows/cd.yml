@@ -2,12 +2,12 @@
 name: CD
 on:
   schedule:
-    - cron: 0 * * * *
+    - cron: 0 */4 * * *
   workflow_dispatch: null
 jobs:
   scrape-prices:
     name: Scrape Graphic Novel Prices
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     permissions:
       contents: write
     steps:
@@ -34,3 +34,6 @@ jobs:
           git add prices/"prices_$(TZ=America/Los_Angeles date +%y%m%d).csv"
           git commit -m "chore: update prices"
           git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git main
+      - name: Clean Up
+        if: always()
+        run: rm -rf retail-price-scraper
