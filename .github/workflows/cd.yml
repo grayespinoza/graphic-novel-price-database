@@ -15,9 +15,6 @@ jobs:
         uses: actions/checkout@v6
         with:
           fetch-depth: 0
-      - uses: actions/setup-python@v6
-        with:
-          python-version: "3.13"
       - name: Update CSV
         run: |
           git clone https://github.com/grayespinoza/retail-price-scraper.git
@@ -26,8 +23,6 @@ jobs:
           set +e
           mv isbns.csv retail-price-scraper/
           cd retail-price-scraper/
-          pip install playwright
-          playwright install --with-deps --only-shell
           python -m scripts.scrape_prices
           mv "prices_$(TZ=America/Los_Angeles date +%y%m%d).csv" ../prices/
           cd ../
