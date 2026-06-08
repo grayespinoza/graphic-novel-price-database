@@ -24,9 +24,9 @@ jobs:
           mv isbns.csv retail-price-scraper/
           cd retail-price-scraper/
           python -m scripts.scrape_prices
-          mv "prices_$(TZ=America/Los_Angeles date +%y%m%d).csv" ../prices/
+          mv prices_*.csv ../prices/
           cd ../
-          git add prices/"prices_$(TZ=America/Los_Angeles date +%y%m%d).csv"
+          git add prices/prices_*.csv
           git commit -m "chore: update prices"
           git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git main
       - name: Clean Up
