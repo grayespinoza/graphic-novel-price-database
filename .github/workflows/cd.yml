@@ -24,6 +24,8 @@ jobs:
           cd retail-price-scraper/
           python3 -m venv .venv
           source .venv/bin/activate
+          pip install playwright
+          playwright install --with-deps --only-shell
           python3 -m scripts.scrape_prices
           mv prices_*.csv ../prices/
           cd ../
