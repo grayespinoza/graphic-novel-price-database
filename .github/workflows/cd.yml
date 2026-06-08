@@ -22,7 +22,9 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           mv isbns.csv retail-price-scraper/
           cd retail-price-scraper/
-          python -m scripts.scrape_prices
+          python3 -m venv .venv
+          source .venv/bin/activate
+          python3 -m scripts.scrape_prices
           mv prices_*.csv ../prices/
           cd ../
           git add prices/prices_*.csv
