@@ -20,6 +20,7 @@ jobs:
           git clone https://github.com/grayespinoza/retail-price-scraper.git
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          set +e
           mv isbns.csv retail-price-scraper/
           cd retail-price-scraper/
           python3 -m venv .venv
