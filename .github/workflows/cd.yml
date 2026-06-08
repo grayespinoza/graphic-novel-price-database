@@ -20,7 +20,6 @@ jobs:
           git clone https://github.com/grayespinoza/retail-price-scraper.git
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          set +e
           mv isbns.csv retail-price-scraper/
           cd retail-price-scraper/
           python -m scripts.scrape_prices
@@ -31,4 +30,6 @@ jobs:
           git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git main
       - name: Clean Up
         if: always()
-        run: rm -rf retail-price-scraper
+        run: |
+          rm -rf retail-price-scraper
+          pkill -f "chromium.*--headless" || true
