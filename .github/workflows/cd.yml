@@ -49,6 +49,7 @@ jobs:
       - name: Update Database
         run: |
           git clone https://github.com/grayespinoza/graphic-novel-price-scraper.git
+          git fetch origin main --tags
           head -n 1 prices/prices_260602.csv > prices.csv
           tail -n +2 -q prices/*.csv >> prices.csv
           mv prices.csv graphic-novel-price-scraper/
@@ -56,6 +57,8 @@ jobs:
           python -m scripts.create_database
           mv graphic_novels.db ../
           cd ../
+          git tag -f latest origin/main
+          git push origin latest --force
       - uses: ncipollo/release-action@v1
         with:
           allowUpdates: true
@@ -63,4 +66,5 @@ jobs:
           artifacts: graphic_novels.db
           name: latest
           prerelease: false
+          tag: latest
           token: ${{ secrets.GITHUB_TOKEN }}
