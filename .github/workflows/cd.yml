@@ -38,3 +38,37 @@ jobs:
         run: |
           rm -rf retail-price-scraper
           pkill -f "chromium.*--headless" || true
+  publish:
+    name: Publish Database
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: write
+    needs: scrape-prices
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+      - name: Update Database
+        run: |
+          git clone https://github.com/grayespinoza/retail-price-scraper.git
+          head -n 1 prices/prices_260602.csv > prices.csv
+          tail -n +2 -q prices/*.csv >> prices.csv
+          mv prices.csv retail-price-scraper/
+          cd retail-price-scraper/
+          python -m scripts.create_database
+          mv graphic_novels.db ../
+          cd ../
+      - uses: ncipollo/release-action@v1
+        with:
+          allowUpdates: true
+          artifactErrorsFailBuild: true
+          artifacts: graphic_novels.db
+          name: latest
+          prerelease: false
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Clean Up
+        if: always()
+        run: |
+          rm -rf retail-price-scraper
