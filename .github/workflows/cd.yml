@@ -17,12 +17,12 @@ jobs:
           fetch-depth: 0
       - name: Update CSV
         run: |
-          git clone https://github.com/grayespinoza/retail-price-scraper.git
+          git clone https://github.com/grayespinoza/graphic-novel-price-scraper.git
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           set +e
-          mv isbns.csv retail-price-scraper/
-          cd retail-price-scraper/
+          mv isbns.csv graphic-novel-price-scraper/
+          cd graphic-novel-price-scraper/
           python3 -m venv .venv
           source .venv/bin/activate
           pip install playwright
@@ -36,7 +36,7 @@ jobs:
       - name: Clean Up
         if: always()
         run: |
-          rm -rf retail-price-scraper
+          rm -rf graphic-novel-price-scraper
           pkill -f "chromium.*--headless" || true
   publish:
     name: Publish Database
@@ -52,11 +52,11 @@ jobs:
           python-version: "3.13"
       - name: Update Database
         run: |
-          git clone https://github.com/grayespinoza/retail-price-scraper.git
+          git clone https://github.com/grayespinoza/graphic-novel-price-scraper.git
           head -n 1 prices/prices_260602.csv > prices.csv
           tail -n +2 -q prices/*.csv >> prices.csv
-          mv prices.csv retail-price-scraper/
-          cd retail-price-scraper/
+          mv prices.csv graphic-novel-price-scraper/
+          cd graphic-novel-price-scraper/
           python -m scripts.create_database
           mv graphic_novels.db ../
           cd ../
@@ -71,4 +71,4 @@ jobs:
       - name: Clean Up
         if: always()
         run: |
-          rm -rf retail-price-scraper
+          rm -rf graphic-novel-price-scraper
