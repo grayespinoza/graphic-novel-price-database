@@ -28,6 +28,7 @@ jobs:
           cd graphic-novel-price-scraper/
           pip install playwright
           playwright install --with-deps --only-shell
+          pip install -e .
           python -m scripts.scrape_prices
           mv prices_*.csv ../prices/
           cd ../
@@ -54,6 +55,7 @@ jobs:
           tail -n +2 -q prices/*.csv >> prices.csv
           mv prices.csv graphic-novel-price-scraper/
           cd graphic-novel-price-scraper/
+          pip install -e .
           python -m scripts.create_database
           mv graphic_novels.db ../
           cd ../
