@@ -43,7 +43,7 @@ jobs:
           pip install playwright
           playwright install --with-deps --only-shell
           pip install -e .
-          python -m scripts.scrape_prices_ci
+          python -m scripts.scrape_prices_cd
           mv prices_*_shard*.csv ../
           cd ../
       - name: Upload Shard Artifact
