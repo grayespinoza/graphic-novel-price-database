@@ -5,11 +5,27 @@ on:
     - cron: 0 */4 * * *
   workflow_dispatch: null
 jobs:
+  get-date:
+    name: Obtain Date
+    runs-on: ubuntu-24.04
+    outputs:
+      date: ${{ steps.date.outputs.date }}
+    steps:
+      - id: date
+        run: |
+          echo "date=$(TZ=America/Los_Angeles date +'%y%m%d')" >> $GITHUB_OUTPUT
   scrape-prices:
     name: Scrape Graphic Novel Prices
     runs-on: ubuntu-24.04
+    strategy:
+      matrix:
+        shard_index: [0, 1, 2, 3, 4]
+    env:
+      SHARD_INDEX: ${{ matrix.shard_index }}
+      DATE: ${{ needs.get-date.outputs.date }}
     permissions:
       contents: write
+    needs: get-date
     steps:
       - name: Checkout
         uses: actions/checkout@v6
@@ -18,29 +34,55 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: "3.13"
-      - name: Update CSV
+      - name: Scrape
         run: |
           git clone https://github.com/grayespinoza/graphic-novel-price-scraper.git
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
           set +e
           mv isbns.csv graphic-novel-price-scraper/
           cd graphic-novel-price-scraper/
           pip install playwright
           playwright install --with-deps --only-shell
           pip install -e .
-          python -m scripts.scrape_prices
-          mv prices_*.csv ../prices/
+          python -m scripts.scrape_prices_ci
+          mv prices_*_shard*.csv ../
           cd ../
-          git add prices/prices_*.csv
-          git commit -m "chore: update prices"
+      - name: Upload Shard Artifact
+        uses: actions/upload-artifact@v7
+        with:
+          name: prices_shard_${{ matrix.shard_index }}
+          path: prices_*_shard*.csv
+  merge-csv:
+    name: Merge CSVs
+    runs-on: ubuntu-24.04
+    env:
+      DATE: ${{ needs.get-date.outputs.date }}
+    permissions:
+      contents: write
+    needs:
+      - get-date
+      - scrape-prices
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - name: Download Shard Artifacts
+        uses: actions/download-artifact@v8
+      - name: Update CSV
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          head -n 1 prices_shard_0/*.csv > prices/prices_${DATE}.csv
+          tail -n +2 -q prices_shard_*/*.csv >> prices/prices_${DATE}.csv
+          git add prices/prices_${DATE}.csv
+          git commit -m "chore: update prices" || echo "nothing to commit, working tree clean"
           git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git main
   publish:
     name: Publish Database
     runs-on: ubuntu-24.04
     permissions:
       contents: write
-    needs: scrape-prices
+    needs: merge-csv
     steps:
       - name: Checkout
         uses: actions/checkout@v6
