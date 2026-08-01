@@ -93,7 +93,7 @@ jobs:
         run: |
           git clone https://github.com/grayespinoza/graphic-novel-price-scraper.git
           git fetch origin main --tags
-          head -n 1 prices/prices_260602.csv > prices.csv
+          head -n 1 prices/prices_260701.csv > prices.csv
           tail -n +2 -q prices/*.csv >> prices.csv
           mv prices.csv graphic-novel-price-scraper/
           cd graphic-novel-price-scraper/
