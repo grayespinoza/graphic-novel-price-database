@@ -592,10 +592,10 @@ date,isbn,retailer,title,price,url
 261004,9781302962036,Barnes & Noble,Jeph Loeb & Tim Sale: Captain America,19.99,https://www.barnesandnoble.com/w/jeph-loeb-tim-sale-jeph-loeb/1147164125
 261004,9781302962050,Barnes & Noble,Ultimate Wolverine Vol. 1: The Winter Soldier,19.99,https://www.barnesandnoble.com/w/ultimate-wolverine-vol-1-christopher-condon/1146996061
 261004,9781302962067,Barnes & Noble,Ultimate Wolverine Vol. 2: Logan,19.99,https://www.barnesandnoble.com/w/ultimate-wolverine-vol-2-chris-condon/1148067109
-261004,9781302963002,Barnes & Noble,,,
+261004,9781302963002,Barnes & Noble,Ultimate Spider-Man Epic Collection: Learning Curve,39.99,https://www.barnesandnoble.com/w/ultimate-spider-man-epic-collection-brian-michael-bendis/1146152924
 261004,9781302964023,Barnes & Noble,New Avengers Vol. 2: The Other Woman,15.99,https://www.barnesandnoble.com/w/new-avengers-vol-2-sam-humphries/1149551377
-261004,9781302964726,Barnes & Noble,,,
-261004,9781302964818,Barnes & Noble,,,
+261004,9781302964726,Barnes & Noble,Amazing Spider-Man: Torn,17.99,https://www.barnesandnoble.com/w/amazing-spider-man-j-michael-straczynski/1148477287
+261004,9781302964818,Barnes & Noble,Ultimate Incursion,17.99,https://www.barnesandnoble.com/w/ultimate-incursion-deniz-camp/1147744425
 261004,9781302964863,Barnes & Noble,Captain America: The Winter Soldier [Marvel Premier Collection],14.99,https://www.barnesandnoble.com/w/captain-america-ed-brubaker/1146433808
 261004,9781302964870,Barnes & Noble,Fantastic Four: Solve Everything [Marvel Premier Collection],14.99,https://www.barnesandnoble.com/w/fantastic-four-jonathan-hickman/1146433830
 261004,9781302965402,Barnes & Noble,Amazing Spider-Man Modern Era Epic Collection: The Life And Death Of Spiders,49.99,https://www.barnesandnoble.com/w/amazing-spider-man-modern-era-epic-collection-j-michael-straczynski/1147241955
@@ -1012,19 +1012,19 @@ date,isbn,retailer,title,price,url
 261004,9780785108559,Amazon,,,
 261004,9780785120124,Amazon,,,
 261004,9780785120469,Amazon,,,
-261004,9780785121794,Amazon,,,
-261004,9780785134503,Amazon,,,
-261004,9780785134794,Amazon,,,
-261004,9780785137245,Amazon,Wolverine,0.0,https://www.amazon.com/Wolverine-Chris-Claremont/dp/0785137246/ref=sr_1_1
-261004,9780785142867,Amazon,,,
-261004,9780785154624,Amazon,,,
-261004,9780785157267,Amazon,,,
-261004,9780785167273,Amazon,,,
-261004,9780785168508,Amazon,,,
-261004,9780785170723,Amazon,,,
-261004,9780785170938,Amazon,,,
-261004,9780785178460,Amazon,,,
-261004,9780785181934,Amazon,,,
+261004,9780785121794,Amazon,Civil War,19.15,https://www.amazon.com/Civil-War-Mark-Millar/dp/078512179X/ref=sr_1_1
+261004,9780785134503,Amazon,Spider-Man: Kraven's Last Hunt,10.99,https://www.amazon.com/Spider-Man-Kravens-J-M-DeMatteis/dp/0785134506/ref=sr_1_1
+261004,9780785134794,Amazon,Daredevil: The Man Without Fear,12.34,https://www.amazon.com/Daredevil-Without-Fear-Frank-Miller/dp/0785134794/ref=sr_1_1
+261004,9780785137245,Amazon,Wolverine By Claremont & Miller (Wolverine (1982)),0.0,https://www.amazon.com/Wolverine-Claremont-Miller-Chris-ebook/dp/B00AAJR41O/ref=sr_1_1
+261004,9780785142867,Amazon,Marvels,,
+261004,9780785154624,Amazon,Miracleman 1: A Dream of Flying,10.99,https://www.amazon.com/Miracleman-Book-1-Dream-Flying/dp/0785154620/ref=sr_1_1
+261004,9780785157267,Amazon,"Marvel Graphic Novel #5: X-Men: God Loves, Man Kills (Marvel Graphic Novel (1982))",3.99,https://www.amazon.com/Marvel-Graphic-Novel-X-Men-Loves-ebook/dp/B00GDHWB7Y/ref=sr_1_1
+261004,9780785167273,Amazon,Spider-Man: Death of the Stacys (Amazing Spider-Man (1963-1998)),12.99,https://www.amazon.com/Spider-Man-Death-Stacys-Amazing-1963-1998-ebook/dp/B00PSN1O86/ref=sr_1_1
+261004,9780785168508,Amazon,Avengers Vs. Thanos,0.0,https://www.amazon.com/Avengers-vs-Thanos-Jim-Starlin/dp/0785168508/ref=sr_1_1
+261004,9780785170723,Amazon,Iron Man: Demon In A Bottle [New Printing 2],22.99,https://www.amazon.com/Iron-Man-Demon-Bottle-Printing/dp/1302961810/ref=sr_1_1
+261004,9780785170938,Amazon,Marvel Super Heroes Secret Wars (Marvel Super Heroes Secret Wars (1984-1985)),19.99,https://www.amazon.com/Marvel-Super-Heroes-Secret-1984-1985-ebook/dp/B00ARKCQ1O/ref=sr_1_1
+261004,9780785178460,Amazon,Black Widow: The Name of the Rose,94.43,https://www.amazon.com/Black-Widow-Name-Marjorie-Liu/dp/0785147004/ref=sr_1_1
+261004,9780785181934,Amazon,Wolverine and the X-Men By Jason Aaron Vol. 1,0.0,https://www.amazon.com/Wolverine-X-Men-Jason-Aaron-Vol-ebook/dp/B00EKM8Q4G/ref=sr_1_1
 261004,9780785182092,Amazon,Daredevil by Bendis and Maleev Ultimate Collection Vol. 1 (Daredevil (1998-2011)),0.0,https://www.amazon.com/Daredevil-Bendis-Ultimate-Collection-1998-2011-ebook/dp/B00FH631VM/ref=sr_1_1
 261004,9780785184546,Amazon,Dr. Strange & Dr. Doom: Triumph & Torment,,
 261004,9780785190219,Amazon,Ms. Marvel Vol. 1: No Normal,9.07,https://www.amazon.com/Ms-Marvel-Vol-No-Normal/dp/078519021X/ref=sr_1_1
@@ -1032,7 +1032,7 @@ date,isbn,retailer,title,price,url
 261004,9780785194736,Amazon,Ultimate Invasion,17.73,https://www.amazon.com/ULTIMATE-INVASION-Jonathan-Hickman/dp/0785194738/ref=sr_1_1
 261004,9780785198956,Amazon,Secret Wars (Secret Wars (2015-2016)),16.99,https://www.amazon.com/Secret-Wars-2015-2016-ebook/dp/B01BL1E3NQ/ref=sr_1_1
 261004,9780785199618,Amazon,Spider-Man: Miles Morales Vol. 1,14.9,https://www.amazon.com/Spider-Man-Miles-Morales-Vol-1/dp/0785199616/ref=sr_1_1
-261004,9781302377045,Amazon,Daredevil by Frank Miller and Klaus Janson Vol. 1 (Daredevil (1964-1998)),0.0,https://www.amazon.com/Daredevil-Frank-Miller-Janson-1964-1998-ebook/dp/B00PSN1DOQ/ref=sr_1_1
+261004,9781302377045,Amazon,DAREDEVIL BY FRANK MILLER & KLAUS JANSON VOL. 1,0.0,https://www.amazon.com/DAREDEVIL-FRANK-MILLER-KLAUS-JANSON/dp/0785134735/ref=sr_1_1
 261004,9781302402228,Amazon,Ms. Marvel Vol. 1: No Normal,9.07,https://www.amazon.com/Ms-Marvel-Vol-No-Normal/dp/078519021X/ref=sr_1_1
 261004,9781302480998,Amazon,Venom by Rick Remender: The Complete Collection Vol. 1 (Venom (2011-2013)),0.0,https://www.amazon.com/Venom-Rick-Remender-Collection-2011-2013-ebook/dp/B00WUNKR9E/ref=sr_1_1
 261004,9781302488673,Amazon,The Ultimates Omniversal 1: Start With the Impossible,0.0,https://www.amazon.com/Ultimates-Omniversal-Vol-Start-Impossible/dp/0785196706/ref=sr_1_1
@@ -1063,16 +1063,16 @@ date,isbn,retailer,title,price,url
 261004,9781302945633,Amazon,The Amazing Spider-Man Omnibus Vol. 1 (Amazing Spider-Man (1963-1998)),39.99,https://www.amazon.com/Amazing-Spider-Man-Omnibus-Vol-1963-1998-ebook/dp/B09V8BS2KF/ref=sr_1_1
 261004,9781302945947,Amazon,Daredevil Epic Collection: It Comes With The Claws,24.99,https://www.amazon.com/Daredevil-Epic-Collection-Comes-Claws/dp/1302945947/ref=sr_1_1
 261004,9781302947729,Amazon,Daredevil By Saladin Ahmed Vol. 1: Hell Breaks Loose,0.0,https://www.amazon.com/Daredevil-Saladin-Ahmed-Vol-Breaks/dp/1302947729/ref=sr_1_1
-261004,9781302950330,Amazon,Amazing Spider-Man Epic Collection: Kraven's Last Hunt [New Printing],34.87,https://www.amazon.com/Amazing-Spider-Man-Epic-Collection-Printing/dp/1302950339/ref=sr_1_1
+261004,9781302950330,Amazon,Amazing Spider-Man Epic Collection: Kraven's Last Hunt [New Printing],39.61,https://www.amazon.com/Amazing-Spider-Man-Epic-Collection-Printing/dp/1302950339/ref=sr_1_1
 261004,9781302950507,Amazon,X-Men Epic Collection: The Fate Of The Phoenix,19.99,https://www.amazon.com/X-Men-Epic-Collection-Phoenix-1963-2011-ebook/dp/B08R1BXPWW/ref=sr_1_1
 261004,9781302952747,Amazon,Civil War II [New Printing],34.99,https://www.amazon.com/CIVIL-WAR-NEW-PRINTING-Civil/dp/1302952749/ref=sr_1_1
 261004,9781302954161,Amazon,Incredible Hulk Vol. 1: Age Of Monsters,19.99,https://www.amazon.com/Incredible-Hulk-Vol-Age-Monsters/dp/1302954164/ref=sr_1_1
 261004,9781302955236,Amazon,Avengers Epic Collection: The Evil Reborn,27.55,https://www.amazon.com/Avengers-Epic-Collection-Evil-Reborn/dp/1302955233/ref=sr_1_1
 261004,9781302955595,Amazon,"X-Men Epic Collection: God Loves, Man Kills",24.99,https://www.amazon.com/X-Men-Epic-Collection-Uncanny-1963-2011-ebook/dp/B0DHSS9RW1/ref=sr_1_1
-261004,9781302956219,Amazon,Daredevil By Chip Zdarsky Omnibus Vol. 1 Tedesco Cover,60.98,https://www.amazon.com/Daredevil-Zdarsky-Omnibus-Tedesco-Cover/dp/1302956213/ref=sr_1_1
+261004,9781302956219,Amazon,Daredevil By Chip Zdarsky Omnibus Vol. 1 Tedesco Cover,60.45,https://www.amazon.com/Daredevil-Zdarsky-Omnibus-Tedesco-Cover/dp/1302956213/ref=sr_1_1
 261004,9781302957292,Amazon,Ultimate Spider-Man By Jonathan Hickman Vol. 1: Married With Children,8.8,https://www.amazon.com/Ultimate-Spider-Man-Jonathan-Hickman-Vol/dp/1302957295/ref=sr_1_1
 261004,9781302957308,Amazon,Ultimate Black Panther By Bryan Hill Vol. 1: Peace And War,12.32,https://www.amazon.com/Ultimate-Black-Panther-Bryan-Hill/dp/1302957309/ref=sr_1_1
-261004,9781302957513,Amazon,Ultimates By Deniz Camp Vol. 1: Fix The World,9.38,https://www.amazon.com/Ultimates-Deniz-Camp-Vol-World/dp/1302957511/ref=sr_1_1
+261004,9781302957513,Amazon,Ultimates By Deniz Camp Vol. 1: Fix The World,12.99,https://www.amazon.com/Ultimates-Deniz-Camp-Vol-World/dp/1302957511/ref=sr_1_1
 261004,9781302957810,Amazon,Amazing Spider-Man Epic Collection: The Secret Of The Petrified Tablet,19.99,https://www.amazon.com/Amazing-Spider-Man-Epic-Collection-Petrified-ebook/dp/B082QMYBN9/ref=sr_1_1
 261004,9781302957834,Amazon,X-Men Epic Collection: Children Of The Atom,19.99,https://www.amazon.com/X-Men-Epic-Collection-Children-1963-2011-ebook/dp/B07XYGTRMD/ref=sr_1_1
 261004,9781302957902,Amazon,Amazing Spider-Man Epic Collection: Assassin Nation [New Printing],24.77,https://www.amazon.com/Amazing-Spider-Man-Epic-Collection-Assassin/dp/1302957902/ref=sr_1_1
@@ -1113,7 +1113,7 @@ date,isbn,retailer,title,price,url
 261004,9781302966690,Amazon,Avengers: Time Runs Out [Marvel Premier Collection],13.97,https://www.amazon.com/Avengers-Time-Marvel-Premier-Collection/dp/1302966693/ref=sr_1_1
 261004,9781302966737,Amazon,X-Men: The Messiah Trilogy Omnibus David Finch Cover,125.0,https://www.amazon.com/X-Men-Messiah-Trilogy-Omnibus-David/dp/1302966731/ref=sr_1_1
 261004,9781302967086,Amazon,Amazing Spider-Man Modern Era Epic Collection: Sins Past,38.64,https://www.amazon.com/Amazing-Spider-Man-Modern-Epic-Collection/dp/1302967088/ref=sr_1_1
-261004,9781302967109,Amazon,New X-Men Modern Era Epic Collection: Planet X,31.39,https://www.amazon.com/New-X-Men-Modern-Epic-Collection/dp/130296710X/ref=sr_1_1
+261004,9781302967109,Amazon,New X-Men Modern Era Epic Collection: Planet X,30.56,https://www.amazon.com/New-X-Men-Modern-Epic-Collection/dp/130296710X/ref=sr_1_1
 261004,9781302967123,Amazon,Amazing Spider-Man Modern Era Epic Collection: Spider-Island,43.29,https://www.amazon.com/Amazing-Spider-Man-Modern-Epic-Collection/dp/1302967126/ref=sr_1_1
 261004,9781302967147,Amazon,Deadpool Modern Era Epic Collection: X X Baby,41.84,https://www.amazon.com/Deadpool-Modern-Era-Epic-Collection/dp/1302967142/ref=sr_1_1
 261004,9781302967307,Amazon,Ultimate Endgame,16.77,https://www.amazon.com/Ultimate-Endgame-DENIZ-CAMP/dp/1302967304/ref=sr_1_1
@@ -1127,8 +1127,8 @@ date,isbn,retailer,title,price,url
 261004,9781302968359,Amazon,Daredevil: The Dark Art (DAREDEVIL: BACK IN BLACK),23.29,https://www.amazon.com/Daredevil-Dark-DAREDEVIL-BACK-BLACK/dp/1302968351/ref=sr_1_1
 261004,9781302968458,Amazon,Doctor Doom Epic Collection: Revolution In Latveria,43.57,https://www.amazon.com/Doctor-Doom-Epic-Collection-Revolution/dp/1302968459/ref=sr_1_1
 261004,9781302968571,Amazon,Web Of Spider-Man Omnibus Vol. 2 Bob Budiansky Cover,139.8,https://www.amazon.com/Spider-Man-Omnibus-Vol-Budiansky-Cover/dp/1302968572/ref=sr_1_1
-261004,9781302968632,Amazon,Wolverine: Not Dead Yet Omnibus Leinil Yu Cover,113.86,https://www.amazon.com/Wolverine-Dead-Omnibus-Leinil-Cover/dp/1302968637/ref=sr_1_1
-261004,9781302968663,Amazon,Spider-Man: Brand New Day [Marvel Compact],9.99,https://www.amazon.com/Spider-Man-Brand-New-Zeb-Wells/dp/1302968661/ref=sr_1_1
+261004,9781302968632,Amazon,Wolverine: Not Dead Yet Omnibus Leinil Yu Cover,111.67,https://www.amazon.com/Wolverine-Dead-Omnibus-Leinil-Cover/dp/1302968637/ref=sr_1_1
+261004,9781302968663,Amazon,Spider-Man: Brand New Day [Marvel Compact],9.31,https://www.amazon.com/Spider-Man-Brand-New-Zeb-Wells/dp/1302968661/ref=sr_1_1
 261004,9781302968830,Amazon,Daredevil By Nocenti & Romita Jr. Omnibus Vol. 2 John Romita Jr. Cover,90.39,https://www.amazon.com/Daredevil-Nocenti-Romita-Omnibus-Cover/dp/1302968831/ref=sr_1_1
 261004,9781302968922,Amazon,Hulk: Smash Everything,17.99,https://www.amazon.com/Hulk-Smash-Everything-Ryan-North/dp/1302968920/ref=sr_1_1
 261004,9781302968939,Amazon,The Superior Foes Of Spider-Man,20.22,https://www.amazon.com/Superior-Foes-Spider-Man-Nick-Spencer/dp/1302968939/ref=sr_1_1
@@ -1141,14 +1141,14 @@ date,isbn,retailer,title,price,url
 261004,9781302970291,Amazon,Avengers: Secret Wars [Marvel Premier Collection],13.97,https://www.amazon.com/Avengers-Secret-Marvel-Premier-Collection/dp/1302970291/ref=sr_1_1
 261004,9781302970567,Amazon,X-Men: Yesterday's X-Men [Marvel Premier Collection],14.29,https://www.amazon.com/X-Men-Yesterdays-Marvel-Premier-Collection/dp/1302970569/ref=sr_1_1
 261004,9781302970659,Amazon,Ultimate Spider-Man Omnibus Vol. 2 Mark Bagley Fiftieth Issue Cover [New Printing],97.74,https://www.amazon.com/Ultimate-Spider-Man-Omnibus-Fiftieth-Printing/dp/1302970658/ref=sr_1_1
-261004,9781401201920,Amazon,"Birds of Prey, Vol. 1: Of Like Minds",0.0,https://www.amazon.com/Birds-Prey-Vol-Like-Minds/dp/140120192X/ref=sr_1_1
+261004,9781401201920,Amazon,"Birds of Prey, Vol. 1: Of Like Minds",,
 261004,9781401207526,Amazon,Batman: Year One,10.48,https://www.amazon.com/Batman-Year-One-Frank-Miller/dp/1401207529/ref=sr_1_1
 261004,9781401212414,Amazon,Batman and Son (Batman (1940-2011)),12.99,https://www.amazon.com/Batman-Son-Grant-Morrison-ebook/dp/B0064W67F0/ref=sr_1_1
-261004,9781401213596,Amazon,Batman: Ego and Other Tails,17.99,https://www.amazon.com/Batman-Other-Tails-Darwyn-Cooke/dp/1401213596/ref=sr_1_1
+261004,9781401213596,Amazon,Batman: Ego and Other Tails,17.98,https://www.amazon.com/Batman-Other-Tails-Darwyn-Cooke/dp/1401213596/ref=sr_1_1
 261004,9781401216269,Amazon,Batman: The Man Who Laughs,13.97,https://www.amazon.com/Batman-Man-Laughs-Ed-Brubaker/dp/1401216269/ref=sr_1_1
 261004,9781401216993,Amazon,"The Starman Omnibus, Vol. 1",,
 261004,9781401219215,Amazon,Y: The Last Man Book One,16.44,https://www.amazon.com/Y-Last-Man-Book-One/dp/140125151X/ref=sr_1_1
-261004,9781401219239,Amazon,"Gotham Central, Book 1: In the Line of Duty",16.99,https://www.amazon.com/Gotham-Central-Book-Line-Duty/dp/1401220371/ref=sr_1_1
+261004,9781401219239,Amazon,"Gotham Central, Book 1: In the Line of Duty",16.97,https://www.amazon.com/Gotham-Central-Book-Line-Duty/dp/1401220371/ref=sr_1_1
 261004,9781401220341,Amazon,Kingdom Come,,
 261004,9781401225759,Amazon,The Sandman Vol. 1: Preludes & Nocturnes (New Edition),12.99,https://www.amazon.com/Sandman-Vol-Preludes-Nocturnes-New/dp/1401225756/ref=sr_1_1
 261004,9781401225766,Amazon,Batman: R.I.P. (Batman by Grant Morrison series Book 4),14.99,https://www.amazon.com/Batman-R-I-P-Grant-Morrison-Book-ebook/dp/B0064W64I0/ref=sr_1_1
@@ -1174,7 +1174,7 @@ date,isbn,retailer,title,price,url
 261004,9781401245252,Amazon,Watchmen (2019 Edition),0.0,https://www.amazon.com/Watchmen-2019-Alan-Moore-ebook/dp/B07ST6DPBQ/ref=sr_1_1
 261004,9781401248888,Amazon,DC: The New Frontier Deluxe Edition,58.0,https://www.amazon.com/DC-Frontier-Deluxe-Darwyn-Cooke/dp/1401248888/ref=sr_1_1
 261004,9781401251345,Amazon,Green Lantern by Geoff Johns Omnibus Vol. 1,89.99,https://www.amazon.com/Green-Lantern-Geoff-Johns-Omnibus/dp/140125134X/ref=sr_1_1
-261004,9781401251468,Amazon,Punk Rock Jesus Deluxe Edition,186.99,https://www.amazon.com/Punk-Rock-Jesus-Deluxe-Murphy/dp/1401251463/ref=sr_1_1
+261004,9781401251468,Amazon,Punk Rock Jesus Deluxe Edition,199.99,https://www.amazon.com/Punk-Rock-Jesus-Deluxe-Murphy/dp/1401251463/ref=sr_1_1
 261004,9781401253134,Amazon,Justice League International Vol. 1,12.99,https://www.amazon.com/Justice-League-International-Vol-1-ebook/dp/B00K7EIXA8/ref=sr_1_1
 261004,9781401254728,Amazon,Gotham Academy Vol. 1: Welcome to Gotham Academy (The New 52),11.99,https://www.amazon.com/Gotham-Academy-Vol-Welcome-New/dp/1401254721/ref=sr_1_1
 261004,9781401255268,Amazon,Green Lantern by Geoff Johns Omnibus Vol. 2,81.99,https://www.amazon.com/Green-Lantern-Geoff-Johns-Omnibus/dp/1401255264/ref=sr_1_1
@@ -1184,16 +1184,16 @@ date,isbn,retailer,title,price,url
 261004,9781401258238,Amazon,Justice League: A League of One,9.99,https://www.amazon.com/Justice-League-One-Christopher-Moeller-ebook/dp/B015EVLB9S/ref=sr_1_1
 261004,9781401258313,Amazon,Suicide Squad Vol. 1: Trial by Fire,14.19,https://www.amazon.com/Suicide-Squad-Vol-Trial-Fire/dp/140125831X/ref=sr_1_1
 261004,9781401263119,Amazon,Batman: The Dark Knight Returns 30th Anniversary Edition,19.99,https://www.amazon.com/Batman-Dark-Knight-Returns-Anniversary/dp/1401263119/ref=sr_1_1
-261004,9781401263126,Amazon,Doom Patrol Book One,16.31,https://www.amazon.com/Doom-Patrol-Book-Grant-Morrison/dp/1401263127/ref=sr_1_1
+261004,9781401263126,Amazon,Doom Patrol Book One,25.95,https://www.amazon.com/Doom-Patrol-Book-Grant-Morrison/dp/1401263127/ref=sr_1_1
 261004,9781401263522,Amazon,BATGIRL VOL. 2: TO THE DEATH,29.06,https://www.amazon.com/BATGIRL-VOL-DEATH-Kelley-Puckett/dp/1401263526/ref=sr_1_1
 261004,9781401265854,Amazon,Batgirl Vol. 3: Point Blank,9.99,https://www.amazon.com/Batgirl-Vol-3-Point-Blank/dp/1401265855/ref=sr_1_1
 261004,9781401267353,Amazon,Flash by Mark Waid: Book One (The Flash (1987-2009) 1),9.99,https://www.amazon.com/Flash-Mark-Waid-Book-1987-2009-ebook/dp/B01MQ0X9EN/ref=sr_1_1
-261004,9781401267452,Amazon,Injustice: Gods Among Us Year One: The Complete Collection,20.25,https://www.amazon.com/Injustice-Gods-Among-Complete-Collection/dp/1401262791/ref=sr_1_1
+261004,9781401267452,Amazon,Injustice: Gods Among Us Year One: The Complete Collection,24.49,https://www.amazon.com/Injustice-Gods-Among-Complete-Collection/dp/1401262791/ref=sr_1_1
 261004,9781401268237,Amazon,Deathstroke Vol. 1: The Professional (Rebirth),39.97,https://www.amazon.com/Deathstroke-Vol-1-Professional-Rebirth/dp/1401268234/ref=sr_1_1
 261004,9781401270261,Amazon,52 Vol. 1: New Edition,0.0,https://www.amazon.com/52-Vol-1-Geoff-Johns-ebook/dp/B01EZG38XK/ref=sr_1_1
-261004,9781401271947,Amazon,Wonder Woman by George Perez Vol. 1 (2024 Edition),28.76,https://www.amazon.com/Wonder-Woman-1-George-Perez/dp/1779527551/ref=sr_1_1
+261004,9781401271947,Amazon,Wonder Woman by George Perez Vol. 1 (2024 Edition),31.59,https://www.amazon.com/Wonder-Woman-1-George-Perez/dp/1779527551/ref=sr_1_1
 261004,9781401274375,Amazon,Absolute Justice League: Origin,66.32,https://www.amazon.com/Absolute-Justice-League-Geoff-Johns/dp/1401274374/ref=sr_1_1
-261004,9781401278991,Amazon,Doom Patrol by Gerard Way and Nick Derington: The Deluxe Edition,46.92,https://www.amazon.com/Doom-Patrol-Gerard-Nick-Derington/dp/1779521383/ref=sr_1_1
+261004,9781401278991,Amazon,Doom Patrol by Gerard Way and Nick Derington: The Deluxe Edition,49.99,https://www.amazon.com/Doom-Patrol-Gerard-Nick-Derington/dp/1779521383/ref=sr_1_1
 261004,9781401283292,Amazon,Harley Quinn: Breaking Glass,16.99,https://www.amazon.com/Harley-Quinn-Breaking-Mariko-Tamaki/dp/1401283292/ref=sr_1_1
 261004,9781401283544,Amazon,Mister Miracle,21.43,https://www.amazon.com/Mister-Miracle-Tom-King/dp/1401283543/ref=sr_1_1
 261004,9781401284626,Amazon,Absolute Kingdom Come (New Edition),54.57,https://www.amazon.com/Absolute-Kingdom-Come-Mark-Waid/dp/1401284620/ref=sr_1_1
@@ -1203,7 +1203,7 @@ date,isbn,retailer,title,price,url
 261004,9781401290832,Amazon,All-Star Superman,0.0,https://www.amazon.com/Audible-All-Star-Superman/dp/B0F7J2Y2PQ/ref=sr_1_1
 261004,9781401292317,Amazon,The Authority Omnibus,51.38,https://www.amazon.com/Authority-Omnibus-Warren-Ellis/dp/1401292313/ref=sr_1_1
 261004,9781401295295,Amazon,The Green Lantern Vol. 1: Intergalactic Lawman,0.0,https://www.amazon.com/Green-Lantern-Vol-Intergalactic-Lawman/dp/1401295290/ref=sr_1_1
-261004,9781401295325,Amazon,The Flash by Geoff Johns Omnibus Vol. 1,63.49,https://www.amazon.com/Flash-Geoff-Johns-Omnibus-Vol/dp/1401295320/ref=sr_1_1
+261004,9781401295325,Amazon,The Flash by Geoff Johns Omnibus Vol. 1,64.13,https://www.amazon.com/Flash-Geoff-Johns-Omnibus-Vol/dp/1401295320/ref=sr_1_1
 261004,9781401297244,Amazon,Batman: Hush (New Edition),16.49,https://www.amazon.com/Batman-Hush-New-Jeph-Loeb/dp/1401297242/ref=sr_1_1
 261004,9781506702162,Amazon,Moebius Library: The World of Edena,38.57,https://www.amazon.com/Moebius-Library-World-Edena/dp/1506702163/ref=sr_1_1
 261004,9781506711423,Amazon,The Umbrella Academy Volume 3: Hotel Oblivion,12.3,https://www.amazon.com/Umbrella-Academy-Hotel-Oblivion/dp/1506711421/ref=sr_1_1
@@ -1238,7 +1238,7 @@ date,isbn,retailer,title,price,url
 261004,9781534328037,Amazon,Invincible Volume 11 (New Edition),13.97,https://www.amazon.com/Invincible-11-New-Robert-Kirkman/dp/1534328033/ref=sr_1_1
 261004,9781534328044,Amazon,Invincible Volume 12 (New Edition),13.97,https://www.amazon.com/Invincible-12-New-Robert-Kirkman/dp/1534328041/ref=sr_1_1
 261004,9781534328075,Amazon,G.I. Joe Vol. 1: The Cobra Strikes!,15.29,https://www.amazon.com/G-I-Joe-Vol-Cobra-Strikes/dp/1534328076/ref=sr_1_1
-261004,9781534328297,Amazon,East of West: The End Times Compendium,60.79,https://www.amazon.com/East-West-End-Times-Compendium/dp/1534328297/ref=sr_1_1
+261004,9781534328297,Amazon,East of West: The End Times Compendium,56.62,https://www.amazon.com/East-West-End-Times-Compendium/dp/1534328297/ref=sr_1_1
 261004,9781534329553,Amazon,Scarlett Vol. 1 (Energon Universe),8.9,https://www.amazon.com/Scarlett-Energon-Universe-Kelly-Thompson/dp/1534329552/ref=sr_1_1
 261004,9781534329898,Amazon,Transformers Vol. 3: Combiner Chaos,15.83,https://www.amazon.com/Transformers-Vol-3-Combiner-Chaos/dp/1534329897/ref=sr_1_1
 261004,9781534329904,Amazon,G.I. Joe Vol. 2: Bludd's Revenge,15.12,https://www.amazon.com/G-I-Joe-Vol-Bludds-Revenge/dp/1534329900/ref=sr_1_1
@@ -1268,7 +1268,7 @@ date,isbn,retailer,title,price,url
 261004,9781534333550,Amazon,Transformers Vol. 5: Generation One,15.83,https://www.amazon.com/Transformers-Vol-5-Generation-One/dp/153433355X/ref=sr_1_1
 261004,9781534333628,Amazon,Hyde Street Volume 2,13.97,https://www.amazon.com/Hyde-Street-2-Geoff-Johns/dp/1534333622/ref=sr_1_1
 261004,9781534333819,Amazon,The Transformers: The Movie Deluxe Edition,32.61,https://www.amazon.com/Transformers-Movie-Deluxe-Ralph-Macchio/dp/1534333819/ref=sr_1_1
-261004,9781534333963,Amazon,Assorted Crisis Events Volume 1,15.73,https://www.amazon.com/Assorted-Crisis-Events-Deniz-Camp/dp/1534333967/ref=sr_1_1
+261004,9781534333963,Amazon,Assorted Crisis Events Volume 1,15.94,https://www.amazon.com/Assorted-Crisis-Events-Deniz-Camp/dp/1534333967/ref=sr_1_1
 261004,9781534334441,Amazon,,,
 261004,9781534335318,Amazon,Invincible Volume 17 (New Edition),13.97,https://www.amazon.com/Invincible-17-New-Robert-Kirkman/dp/1534335315/ref=sr_1_1
 261004,9781534335370,Amazon,G.I. Joe: A Real American Hero Vol. 5,14.99,https://www.amazon.com/G-I-Joe-Real-American-Hero/dp/1534335374/ref=sr_1_1
@@ -1283,7 +1283,7 @@ date,isbn,retailer,title,price,url
 261004,9781534395565,Amazon,The Power Fantasy Volume 1: The Superpowers,9.31,https://www.amazon.com/Power-Fantasy-1-Superpowers/dp/1534395563/ref=sr_1_1
 261004,9781534396807,Amazon,Invincible Volume 8 (New Edition),13.97,https://www.amazon.com/Invincible-8-New-Robert-Kirkman/dp/1534396802/ref=sr_1_1
 261004,9781534397378,Amazon,Clementine Book Three,12.6,https://www.amazon.com/Clemetine-Book-Three-Tillie-Walden/dp/153439737X/ref=sr_1_1
-261004,9781534397705,Amazon,The Complete Invincible Library Volume 5,77.58,https://www.amazon.com/Complete-Invincible-Library-5/dp/1534397701/ref=sr_1_1
+261004,9781534397705,Amazon,The Complete Invincible Library Volume 5,77.77,https://www.amazon.com/Complete-Invincible-Library-5/dp/1534397701/ref=sr_1_1
 261004,9781534398085,Amazon,Invincible Volume 4 (New Edition),13.97,https://www.amazon.com/Invincible-4-New-Robert-Kirkman/dp/1534398082/ref=sr_1_1
 261004,9781534398092,Amazon,Invincible Volume 3 (New Edition),14.99,https://www.amazon.com/Invincible-3-New-Robert-Kirkman/dp/1534398090/ref=sr_1_1
 261004,9781534398153,Amazon,Cobra Commander Volume 1: Determined to Rule the World (Energon Universe),10.48,https://www.amazon.com/Cobra-Commander-Determined-Energon-Universe/dp/1534398155/ref=sr_1_1
@@ -1295,7 +1295,7 @@ date,isbn,retailer,title,price,url
 261004,9781534399952,Amazon,Invincible Volume 1 (New Edition),12.11,https://www.amazon.com/Invincible-1-New/dp/153439995X/ref=sr_1_1
 261004,9781534399969,Amazon,Invincible Universe Compendium Volume 1,32.34,https://www.amazon.com/Invincible-Universe-Compendium/dp/1534399968/ref=sr_1_1
 261004,9781563890055,Amazon,Animal Man (1988-1995) Vol. 1,0.0,https://www.amazon.com/Animal-Man-Book-ebook/dp/B00BEOWUHC/ref=sr_1_1
-261004,9781563893421,Amazon,Batman: The Dark Knight Returns,29.99,https://www.amazon.com/Batman-Knight-Returns-Frank-Miller/dp/1563893428/ref=sr_1_1
+261004,9781563893421,Amazon,Batman: The Dark Knight Returns,29.76,https://www.amazon.com/Batman-Knight-Returns-Frank-Miller/dp/1563893428/ref=sr_1_1
 261004,9781563893742,Amazon,Manhunter: The Special Edition,,
 261004,9781563894695,Amazon,Batman: The Long Halloween,22.43,https://www.amazon.com/Batman-Long-Halloween-Jeph-Loeb/dp/1563894696/ref=sr_1_1
 261004,9781582405001,Amazon,Invincible: The Ultimate Collection Volume 1,27.79,https://www.amazon.com/Invincible-Ultimate-Collection-Vol-1/dp/158240500X/ref=sr_1_1
@@ -1323,7 +1323,7 @@ date,isbn,retailer,title,price,url
 261004,9781607062554,Amazon,Invincible Presents: Atom Eve & Rex Splode Vol. 1 (Invincible Presents: Atom Eve and Rex Splode),5.99,https://www.amazon.com/Invincible-Presents-Atom-Splode-Vol-ebook/dp/B01N7KCIBR/ref=sr_1_1
 261004,9781607063292,Amazon,"The Walking Dead, Vol. 13: Too Far Gone",10.02,https://www.amazon.com/Walking-Dead-Vol-13-Gone/dp/1607063298/ref=sr_1_1
 261004,9781607064114,Amazon,Invincible Compendium Volume 1,43.99,https://www.amazon.com/Invincible-Compendium-One-Robert-Kirkman/dp/1607064111/ref=sr_1_1
-261004,9781607064213,Amazon,The Complete Invincible Library Volume 3,87.21,https://www.amazon.com/Complete-Invincible-Library-Hc/dp/1607064219/ref=sr_1_1
+261004,9781607064213,Amazon,The Complete Invincible Library Volume 3,87.33,https://www.amazon.com/Complete-Invincible-Library-Hc/dp/1607064219/ref=sr_1_1
 261004,9781607065968,Amazon,The Walking Dead: Compendium Two,33.02,https://www.amazon.com/Walking-Dead-Compendium-Two/dp/1607065967/ref=sr_1_1
 261004,9781607066019,Amazon,"Saga, Vol. 1",7.51,https://www.amazon.com/Saga-Vol-1-Brian-Vaughan/dp/1607066017/ref=sr_1_1
 261004,9781607067702,Amazon,East of West Volume 1: The Promise,15.02,https://www.amazon.com/East-West-Promise-Jonathan-Hickman/dp/1607067706/ref=sr_1_1
@@ -1346,7 +1346,7 @@ date,isbn,retailer,title,price,url
 261004,9781779504210,Amazon,Superman Smashes the Klan,10.83,https://www.amazon.com/Superman-Smashes-Klan-Gene-Luen/dp/1779504217/ref=sr_1_1
 261004,9781779504463,Amazon,The Batman Who Laughs,13.58,https://www.amazon.com/Batman-Who-Laughs-Scott-Snyder/dp/1779504462/ref=sr_1_1
 261004,9781779507198,Amazon,Batgirl Returns Omnibus,,
-261004,9781779511553,Amazon,Absolute Wonder Woman: Gods and Mortals,74.56,https://www.amazon.com/Absolute-Wonder-Woman-Gods-Mortals/dp/1779511558/ref=sr_1_1
+261004,9781779511553,Amazon,Absolute Wonder Woman: Gods and Mortals,74.55,https://www.amazon.com/Absolute-Wonder-Woman-Gods-Mortals/dp/1779511558/ref=sr_1_1
 261004,9781779512055,Amazon,Far Sector (2019-),9.99,https://www.amazon.com/Far-Sector-2019-N-K-Jemisin-ebook/dp/B09GL3Q4Q2/ref=sr_1_1
 261004,9781779512058,Amazon,,,
 261004,9781779513458,Amazon,"The Flash by Geoff Johns Omnibus Vol. 3 (Flash Omnibus, 3)",64.0,https://www.amazon.com/Flash-Geoff-Johns-Omnibus-Vol/dp/1779513453/ref=sr_1_1
@@ -1377,7 +1377,7 @@ date,isbn,retailer,title,price,url
 261004,9781779527325,Amazon,Watchmen: DC Compact Comics Edition,8.99,https://www.amazon.com/Watchmen-Compact-Comics-Alan-Moore/dp/1779527322/ref=sr_1_1
 261004,9781779527332,Amazon,Wonder Woman: Earth One: DC Compact Comics Edition,8.99,https://www.amazon.com/Wonder-Woman-Earth-Grant-Morrison/dp/1779527330/ref=sr_1_1
 261004,9781779527349,Amazon,American Vampire Book One: DC Compact Comics Edition,8.99,https://www.amazon.com/American-Vampire-Dc-Compact-Comics/dp/1779527349/ref=sr_1_1
-261004,9781779527585,Amazon,Absolute Justice (New Edition),83.02,https://www.amazon.com/Absolute-Justice-Alex-Ross/dp/1779527586/ref=sr_1_1
+261004,9781779527585,Amazon,Absolute Justice (New Edition),71.81,https://www.amazon.com/Absolute-Justice-Alex-Ross/dp/1779527586/ref=sr_1_1
 261004,9781779527653,Amazon,Green Lantern by Geoff Johns Book One (New Edition),37.27,https://www.amazon.com/Green-Lantern-1-Geoff-Johns/dp/1779527659/ref=sr_1_1
 261004,9781779527882,Amazon,Poison Ivy Vol. 2: Unethical Consumption,17.51,https://www.amazon.com/Poison-Ivy-2-Unethical-Consumption/dp/1779527888/ref=sr_1_1
 261004,9781779528025,Amazon,Nightwing Vol. 4: The Leap,16.99,https://www.amazon.com/Nightwing-4-Leap-Tom-Taylor/dp/1779528027/ref=sr_1_1
@@ -1446,7 +1446,7 @@ date,isbn,retailer,title,price,url
 261004,9781799507529,Amazon,Absolute Superman Vol. 2: Son of the Demon (Absolute Universe),19.25,https://www.amazon.com/Absolute-Superman-Vol-Son-Demon/dp/1799507521/ref=sr_1_1
 261004,9781799507536,Amazon,Absolute Wonder Woman Vol. 2: As My Mothers Made Me (Absolute Universe),18.63,https://www.amazon.com/Absolute-Wonder-Woman-Vol-Mothers/dp/1799507548/ref=sr_1_1
 261004,9781799507543,Amazon,Absolute Wonder Woman Vol. 2: As My Mothers Made Me (Absolute Universe),18.63,https://www.amazon.com/Absolute-Wonder-Woman-Vol-Mothers/dp/1799507548/ref=sr_1_1
-261004,9781799507642,Amazon,"John Constantine, Hellblazer by Paul Jenkins and Sean Phillips Omnibus",108.34,https://www.amazon.com/Constantine-Hellblazer-Jenkins-Phillips-Omnibus/dp/1799507645/ref=sr_1_1
+261004,9781799507642,Amazon,"John Constantine, Hellblazer by Paul Jenkins and Sean Phillips Omnibus",107.37,https://www.amazon.com/Constantine-Hellblazer-Jenkins-Phillips-Omnibus/dp/1799507645/ref=sr_1_1
 261004,9781799507697,Amazon,The Flash: Rebirth: DC Compact Comics Edition,8.99,https://www.amazon.com/Flash-Rebirth-DC-Compact-Comics/dp/1799507696/ref=sr_1_1
 261004,9781799507703,Amazon,Nightwing: Leaping into the Light: DC Compact Comics Edition,8.99,https://www.amazon.com/Nightwing-Leaping-Light-Compact-Comics/dp/179950770X/ref=sr_1_1
 261004,9781799507710,Amazon,DC Finest: Deadman: How Many Times Can a Guy Die?,24.89,https://www.amazon.com/DC-Finest-Deadman-Many-Times/dp/1799507718/ref=sr_1_1
@@ -1454,8 +1454,8 @@ date,isbn,retailer,title,price,url
 261004,9781799507864,Amazon,Batman: The Dark Knight Returns: DC Compact Comics Edition,8.99,https://www.amazon.com/Batman-Knight-Returns-Compact-Comics/dp/1799507866/ref=sr_1_1
 261004,9781799507932,Amazon,JLA Book Three,33.3,https://www.amazon.com/JLA-Book-Three-Grant-Morrison/dp/1799507939/ref=sr_1_1
 261004,9781799508007,Amazon,Green Arrow By Jeff Lemire and Andrea Sorrentino: The Deluxe Edition (New Edition),40.84,https://www.amazon.com/Green-Arrow-Lemire-Andrea-Sorrentino/dp/1799508005/ref=sr_1_1
-261004,9781799508038,Amazon,Batman: Urban Legends Omnibus Vol. 1,59.93,https://www.amazon.com/Batman-Urban-Legends-Omnibus-Vol/dp/179950803X/ref=sr_1_1
-261004,9781799508045,Amazon,Zatanna by Paul Dini Omnibus,86.22,https://www.amazon.com/Zatanna-Paul-Dini-Omnibus/dp/1799508048/ref=sr_1_1
+261004,9781799508038,Amazon,Batman: Urban Legends Omnibus Vol. 1,58.43,https://www.amazon.com/Batman-Urban-Legends-Omnibus-Vol/dp/179950803X/ref=sr_1_1
+261004,9781799508045,Amazon,Zatanna by Paul Dini Omnibus,85.42,https://www.amazon.com/Zatanna-Paul-Dini-Omnibus/dp/1799508048/ref=sr_1_1
 261004,9781799508076,Amazon,Gotham Central: DC Compact Comics Edition,8.99,https://www.amazon.com/Gotham-Central-DC-Compact-Comics/dp/1799508072/ref=sr_1_1
 261004,9781799508083,Amazon,Green Arrow: Year One: DC Compact Comics Edition,8.99,https://www.amazon.com/Green-Arrow-Year-Compact-Comics/dp/1799508080/ref=sr_1_1
 261004,9781799508113,Amazon,DC Finest: Wonder Woman: Dawn Before Darkness,24.0,https://www.amazon.com/DC-Finest-Wonder-Before-Darkness/dp/1799508110/ref=sr_1_1
@@ -1466,8 +1466,8 @@ date,isbn,retailer,title,price,url
 261004,9781799508281,Amazon,Superman: Red Son: DC Compact Comics Edition,8.99,https://www.amazon.com/Superman-Red-Son-Compact-Comics/dp/1799508285/ref=sr_1_1
 261004,9781799508298,Amazon,DC Finest: Robin: The Origin of Robin,24.89,https://www.amazon.com/DC-Finest-Robin-Origin/dp/1799508293/ref=sr_1_1
 261004,9781799508342,Amazon,Superman Adventures Compendium Two,33.62,https://www.amazon.com/Superman-Adventures-Compendium-Mark-Millar/dp/179950834X/ref=sr_1_1
-261004,9781799508502,Amazon,Nightwing by Tom Taylor and Bruno Redondo Omnibus Vol. 2,56.86,https://www.amazon.com/Nightwing-Taylor-Bruno-Redondo-Omnibus/dp/1799508501/ref=sr_1_1
-261004,9781799508519,Amazon,Wonder Woman by George Perez Omnibus Vol. 2 (New Edition),43.26,https://www.amazon.com/Wonder-Woman-George-Perez-Omnibus/dp/179950851X/ref=sr_1_1
+261004,9781799508502,Amazon,Nightwing by Tom Taylor and Bruno Redondo Omnibus Vol. 2,57.06,https://www.amazon.com/Nightwing-Taylor-Bruno-Redondo-Omnibus/dp/1799508501/ref=sr_1_1
+261004,9781799508519,Amazon,Wonder Woman by George Perez Omnibus Vol. 2 (New Edition),48.21,https://www.amazon.com/Wonder-Woman-George-Perez-Omnibus/dp/179950851X/ref=sr_1_1
 261004,9781799508557,Amazon,Batgirl of Burnside: DC Compact Comics Edition,8.99,https://www.amazon.com/Batgirl-Burnside-DC-Compact-Comics/dp/1799508552/ref=sr_1_1
 261004,9781799508564,Amazon,Injustice: Gods Among Us: Year One: DC Compact Comics Edition,8.99,https://www.amazon.com/Injustice-Gods-Among-Compact-Comics/dp/1799508560/ref=sr_1_1
 261004,9781799508649,Amazon,Batman/Superman: World's Finest Vol. 9: The Merger,19.99,https://www.amazon.com/Batman-Superman-Worlds-Finest-Merger/dp/1799508641/ref=sr_1_1
@@ -1484,16 +1484,16 @@ date,isbn,retailer,title,price,url
 261004,9781799508915,Amazon,Absolute Batman Vol. 3: Devil's Workshop (Absolute Universe),19.99,https://www.amazon.com/Absolute-Batman-Vol-Workshop-Universe/dp/1799508919/ref=sr_1_1
 261004,9781799508960,Amazon,Batgirl Vol. 3: The War of Shadows,17.99,https://www.amazon.com/Batgirl-Vol-3-War-Shadows/dp/179950896X/ref=sr_1_1
 261004,9781799509035,Amazon,Absolute Green Lantern: Rebirth (New Edition),83.91,https://www.amazon.com/Absolute-Green-Lantern-Rebirth-New/dp/1799509036/ref=sr_1_1
-261004,9781799509066,Amazon,Batman: Detective Comics by Ram V Omnibus,115.47,https://www.amazon.com/Batman-Detective-Comics-Ram-Omnibus/dp/1799509060/ref=sr_1_1
-261004,9781799509073,Amazon,Wonder Woman: Rebirth by Greg Rucka Omnibus,55.99,https://www.amazon.com/Wonder-Woman-Rebirth-Rucka-Omnibus/dp/1799509079/ref=sr_1_1
-261004,9781799509097,Amazon,Absolute Power Omnibus,116.06,https://www.amazon.com/Absolute-Power-Omnibus-Mark-Waid/dp/1799509095/ref=sr_1_1
+261004,9781799509066,Amazon,Batman: Detective Comics by Ram V Omnibus,119.99,https://www.amazon.com/Batman-Detective-Comics-Ram-Omnibus/dp/1799509060/ref=sr_1_1
+261004,9781799509073,Amazon,Wonder Woman: Rebirth by Greg Rucka Omnibus,82.29,https://www.amazon.com/Wonder-Woman-Rebirth-Rucka-Omnibus/dp/1799509079/ref=sr_1_1
+261004,9781799509097,Amazon,Absolute Power Omnibus,115.88,https://www.amazon.com/Absolute-Power-Omnibus-Mark-Waid/dp/1799509095/ref=sr_1_1
 261004,9781799509110,Amazon,Fables: No More Happily Ever After: DC Compact Comics Edition,9.99,https://www.amazon.com/Fables-Happily-After-Compact-Comics/dp/1799509117/ref=sr_1_1
 261004,9781799509172,Amazon,Batman by Grant Morrison Book Three,36.49,https://www.amazon.com/Batman-Grant-Morrison-Book-Three/dp/1799509176/ref=sr_1_1
 261004,9781799509295,Amazon,Swamp Thing: The Anatomy Lesson: DC Compact Comics Edition,9.99,https://www.amazon.com/Swamp-Thing-Anatomy-Lesson-Compact/dp/179950929X/ref=sr_1_1
 261004,9781799509301,Amazon,Batman: Harley and Ivy: DC Compact Comics Edition,9.99,https://www.amazon.com/Batman-Harley-Ivy-Compact-Comics/dp/1799509303/ref=sr_1_1
 261004,9781799509387,Amazon,Green Lantern Vol. 6: With This Ring,17.99,https://www.amazon.com/Green-Lantern-Vol-This-Ring/dp/1799509389/ref=sr_1_1
 261004,9781799509509,Amazon,Harley & Ivy: Life & Crimes,17.99,https://www.amazon.com/Harley-Ivy-Crimes-Erica-Henderson/dp/1799509508/ref=sr_1_1
-261004,9781799510277,Amazon,DC Finest: Hard Traveling Heroes,29.47,https://www.amazon.com/DC-Finest-Hard-Traveling-Heroes/dp/1799510271/ref=sr_1_1
+261004,9781799510277,Amazon,DC Finest: Hard Traveling Heroes,29.46,https://www.amazon.com/DC-Finest-Hard-Traveling-Heroes/dp/1799510271/ref=sr_1_1
 261004,9781799510291,Amazon,DC Finest: Green Lantern: Setting Up Shop,37.27,https://www.amazon.com/DC-Finest-Green-Lantern-Setting/dp/1799510298/ref=sr_1_1
 261004,9781799510307,Amazon,DC Finest: Batman: The Demon Lives Again!,37.27,https://www.amazon.com/DC-Finest-Batman-Demon-Lives/dp/1799510301/ref=sr_1_1
 261004,9781799510857,Amazon,DC K.O.,19.99,https://www.amazon.com/DC-K-Scott-Snyder/dp/1799510859/ref=sr_1_1
@@ -1597,7 +1597,7 @@ date,isbn,retailer,title,price,url
 261004,9781302962005,In Stock Trades,,,
 261004,9781302962012,In Stock Trades,Jeph Loeb & Tim Sale Daredevil TP,12.99,https://www.instocktrades.com/products/nov240778/jeph-loeb-tim-sale-daredevil-tp
 261004,9781302962029,In Stock Trades,,,
-261004,9781302962036,In Stock Trades,Jeph Loeb & Tim Sale Captain America TP,10.0,https://www.instocktrades.com/products/sep254788d/jeph-loeb-tim-sale-captain-america-tp
+261004,9781302962036,In Stock Trades,Jeph Loeb & Tim Sale Captain America TP,12.99,https://www.instocktrades.com/products/sep254788/jeph-loeb-tim-sale-captain-america-tp
 261004,9781302962050,In Stock Trades,Ultimate Wolverine TP Vol 01 the Winter Soldier,12.99,https://www.instocktrades.com/products/may250631/ultimate-wolverine-tp-vol-01-the-winter-soldier
 261004,9781302962067,In Stock Trades,Ultimate Wolverine TP Vol 02 Logan,12.99,https://www.instocktrades.com/products/dec254560/ultimate-wolverine-tp-vol-02-logan
 261004,9781302963002,In Stock Trades,,,
@@ -1819,7 +1819,7 @@ date,isbn,retailer,title,price,url
 261004,9781595823458,In Stock Trades,,,
 261004,9781595828934,In Stock Trades,,,
 261004,9781607060222,In Stock Trades,Walking Dead TP Vol 09 Here We Remain (MR),9.29,https://www.instocktrades.com/products/nov082242/walking-dead-tp-vol-09-here-we-remain-(mr)
-261004,9781607060758,In Stock Trades,Walking Dead TP Vol 10 What We Become,7.49,https://www.instocktrades.com/products/jun090332d/walking-dead-tp-vol-10-what-we-become
+261004,9781607060758,In Stock Trades,Walking Dead TP Vol 10 What We Become,7.49,https://www.instocktrades.com/products/jun090332/walking-dead-tp-vol-10-what-we-become
 261004,9781607060765,In Stock Trades,,,
 261004,9781607061120,In Stock Trades,Invincible Complete Library HC Vol 02,77.5,https://www.instocktrades.com/products/sep097169/invincible-complete-library-hc-vol-02
 261004,9781607061816,In Stock Trades,Walking Dead TP Vol 11 Fear the Hunters (MR),9.29,https://www.instocktrades.com/products/oct090390/walking-dead-tp-vol-11-fear-the-hunters-(mr)
@@ -1925,7 +1925,7 @@ date,isbn,retailer,title,price,url
 261004,9781799505211,In Stock Trades,Absolute Martian Manhunter TP Vol 01 Martian Vision,10.79,https://www.instocktrades.com/products/jul257238/absolute-martian-manhunter-tp-vol-01-martian-vision
 261004,9781799505235,In Stock Trades,Superman Action Comics (2025) TP Vol 01 Boy of Steel,11.99,https://www.instocktrades.com/products/feb2670232/superman-action-comics-(2025)-tp-vol-01-boy-of-steel
 261004,9781799505242,In Stock Trades,,,
-261004,9781799505259,In Stock Trades,Absolute Batman TP Vol 01 the Zoo,9.0,https://www.instocktrades.com/products/apr257250d/absolute-batman-tp-vol-01-the-zoo
+261004,9781799505259,In Stock Trades,Absolute Batman TP Vol 01 the Zoo,10.79,https://www.instocktrades.com/products/apr257250/absolute-batman-tp-vol-01-the-zoo
 261004,9781799505297,In Stock Trades,,,
 261004,9781799505303,In Stock Trades,Absolute Wonder Woman TP Vol 01 the Last Amazon,10.79,https://www.instocktrades.com/products/apr257254/absolute-wonder-woman-tp-vol-01-the-last-amazon
 261004,9781799505334,In Stock Trades,Absolute Superman TP Vol 01 Last Dust of Krypton,10.79,https://www.instocktrades.com/products/apr257252/absolute-superman-tp-vol-01-last-dust-of-krypton
